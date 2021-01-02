@@ -1,11 +1,11 @@
-baseURL: "/"
+baseURL: "https://berrabe.github.io/"
 title: Docs | berrabe
 paginate: 5
 theme: hugo-PaperMod
 enableInlineShortcodes: true
 enableRobotsTXT: true
 
-# googleAnalytics: UA-123-45
+googleAnalytics: G-FCB4RRC5VE
 
 minify:
     disableXML: true
