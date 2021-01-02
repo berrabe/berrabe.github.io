@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://berrabe.github.io/posts/2021/first/</loc>
+    <lastmod>2021-01-02T12:07:25+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://berrabe.github.io/id/posts/2021/first/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://berrabe.github.io/posts/2021/first/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://berrabe.github.io/posts/2021/</loc>
+    <lastmod>2021-01-02T12:07:25+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://berrabe.github.io/</loc>
+    <lastmod>2021-01-02T12:07:25+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://berrabe.github.io/id/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://berrabe.github.io/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://berrabe.github.io/posts/</loc>
+    <lastmod>2021-01-02T12:07:25+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://berrabe.github.io/id/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://berrabe.github.io/posts/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://berrabe.github.io/archives/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://berrabe.github.io/id/archives/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://berrabe.github.io/archives/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://berrabe.github.io/search/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://berrabe.github.io/id/search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://berrabe.github.io/search/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://berrabe.github.io/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://berrabe.github.io/id/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://berrabe.github.io/tags/"
+                />
+  </url>
+  
+</urlset>

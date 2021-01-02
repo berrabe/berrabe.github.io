@@ -11,17 +11,44 @@ minify:
     disableXML: true
     minifyOutput: true
 
-menu:
-    main:
-        - name: Tags
-          url: tags
-          weight: 1
-        - name: Archive
-          url: archives/
-          weight: 2
-        - name: Search
-          url: search/
-          weight: 3
+languages:
+    en:
+        languageName: "English"
+        weight: 1
+        menu:
+            main:
+                - name: Tags
+                  url: tags
+                  weight: 1
+                - name: Archive
+                  url: archives/
+                  weight: 2
+                - name: Search
+                  url: search/
+                  weight: 3
+
+    id:
+        languageName: "Indonesia"
+        weight: 1
+        menu:
+            main:
+                - name: Tag
+                  url: tags
+                  weight: 1
+                - name: Arsip
+                  url: archives/
+                  weight: 2
+                - name: Cari
+                  url: search/
+                  weight: 3
+
+        homeInfoParams:
+            Title: "Halo \U0001F44B"
+            Content: >
+                Selamat Datang di **Docs | berrabe**.
+
+                - Web ini untuk men-dokumentasikan segala hal yang pernah saya lakukan berkaitan teknologi
+
 
 outputs:
     home:

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docs | berrabe</title>
+    <link>https://berrabe.github.io/id/</link>
+    <description>Recent content on Docs | berrabe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 02 Jan 2021 12:07:25 +0700</lastBuildDate><atom:link href="https://berrabe.github.io/id/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pertama</title>
+      <link>https://berrabe.github.io/id/posts/2021/first/</link>
+      <pubDate>Sat, 02 Jan 2021 12:07:25 +0700</pubDate>
+      
+      <guid>https://berrabe.github.io/id/posts/2021/first/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Archive</title>
+      <link>https://berrabe.github.io/id/archives/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://berrabe.github.io/id/archives/</guid>
+      <description>archives</description>
+    </item>
+    
+    <item>
+      <title>Pencarian</title>
+      <link>https://berrabe.github.io/id/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://berrabe.github.io/id/search/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
