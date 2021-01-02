@@ -1,0 +1,98 @@
+baseURL: "/"
+title: Docs | berrabe
+paginate: 5
+theme: hugo-PaperMod
+enableInlineShortcodes: true
+enableRobotsTXT: true
+
+# googleAnalytics: UA-123-45
+
+minify:
+    disableXML: true
+    minifyOutput: true
+
+menu:
+    main:
+        - name: Tags
+          url: tags
+          weight: 1
+        - name: Archive
+          url: archives/
+          weight: 2
+        - name: Search
+          url: search/
+          weight: 3
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON
+
+params:
+    env: production
+    description: "Docs | berrabe"
+    author: Docs | berrabe
+    ShowReadingTime: true
+    defaultTheme: auto
+    ShowShareButtons: true
+    displayFullLangName: true
+
+    profileMode:
+        enabled: false
+        title: PaperMod
+        imageUrl: "#"
+        imageTitle: my image
+        buttons:
+            - name: Archives
+              url: archives
+            - name: Tags
+              url: tags
+
+    homeInfoParams:
+        Title: "Hi there \U0001F44B"
+        Content: >
+            Welcome to **Docs | berrabe**.
+
+            - I created this to document everything I've ever done on tech.
+
+    socialIcons:
+        - name: github
+          url: "https://github.com/berrabe/"
+        - name: gitlab
+          url: "https://gitlab.com/berrabe"
+        - name: instagram
+          url: "https://www.instagram.com/berrabe/"
+        - name: telegram
+          url: "https://t.me/berrabe"
+        - name: linkedin
+          url: "https://www.linkedin.com/in/fakhrizal-asshiddiq-564886175/"
+
+taxonomies:
+    # category: categories
+    tag: tags
+    # series: series
+
+privacy:
+    vimeo:
+        disabled: false
+        simple: true
+
+    twitter:
+        disabled: false
+        enableDNT: true
+        simple: true
+
+    instagram:
+        disabled: false
+        simple: true
+
+    youtube:
+        disabled: false
+        privacyEnhanced: true
+
+services:
+    instagram:
+        disableInlineCSS: true
+    twitter:
+        disableInlineCSS: true
