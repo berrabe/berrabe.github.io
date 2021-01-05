@@ -4,17 +4,7 @@
     <title>Docs | berrabe</title>
     <link>https://berrabe.github.io/</link>
     <description>Recent content on Docs | berrabe</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 02 Jan 2021 12:07:25 +0700</lastBuildDate><atom:link href="https://berrabe.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>First</title>
-      <link>https://berrabe.github.io/posts/2021/first/</link>
-      <pubDate>Sat, 02 Jan 2021 12:07:25 +0700</pubDate>
-      
-      <guid>https://berrabe.github.io/posts/2021/first/</guid>
-      <description></description>
-    </item>
-    
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://berrabe.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Archive</title>
       <link>https://berrabe.github.io/archives/</link>

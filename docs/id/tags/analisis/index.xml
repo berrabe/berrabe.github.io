@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Analisis on Docs | berrabe</title>
+    <link>https://berrabe.github.io/id/tags/analisis/</link>
+    <description>Recent content in Analisis on Docs | berrabe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 04 Jan 2021 16:02:48 +0700</lastBuildDate><atom:link href="https://berrabe.github.io/id/tags/analisis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Openvpn Redirect Problem</title>
+      <link>https://berrabe.github.io/id/posts/2021/openvpn-redirect-problem/</link>
+      <pubDate>Mon, 04 Jan 2021 16:02:48 +0700</pubDate>
+      
+      <guid>https://berrabe.github.io/id/posts/2021/openvpn-redirect-problem/</guid>
+      <description>1) Masalah Besar pada OpenVPN  Saat saya menginstall openvpn dari script automasi bang angristan (fork dari script Nyr), saya bisa setup server openvpn dengan cepat (hanya 5 menit) dan langsung work, tanpa harus setting cert, ip, routing dll secara manual
+tapi ada satu masalah yang sangat simple tetepi membahayakan, dimana saya tidak bisa akses server client yang terkonek dengan jaringan OpenVPN!!!!, semua service tidak bisa di akses, mulai dari ping, ssh, sftp, webserver, dll &amp;hellip; oke oke, jangan tenang tetap panik 😝</description>
+    </item>
+    
+  </channel>
+</rss>

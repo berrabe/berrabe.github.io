@@ -4,6 +4,43 @@
     <title>Tags on Docs | berrabe</title>
     <link>https://berrabe.github.io/id/tags/</link>
     <description>Recent content in Tags on Docs | berrabe</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://berrabe.github.io/id/tags/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 05 Jan 2021 11:56:28 +0700</lastBuildDate><atom:link href="https://berrabe.github.io/id/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linux</title>
+      <link>https://berrabe.github.io/id/tags/linux/</link>
+      <pubDate>Tue, 05 Jan 2021 11:56:28 +0700</pubDate>
+      
+      <guid>https://berrabe.github.io/id/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OpenVPN</title>
+      <link>https://berrabe.github.io/id/tags/openvpn/</link>
+      <pubDate>Tue, 05 Jan 2021 11:56:28 +0700</pubDate>
+      
+      <guid>https://berrabe.github.io/id/tags/openvpn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VPN</title>
+      <link>https://berrabe.github.io/id/tags/vpn/</link>
+      <pubDate>Tue, 05 Jan 2021 11:56:28 +0700</pubDate>
+      
+      <guid>https://berrabe.github.io/id/tags/vpn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analisis</title>
+      <link>https://berrabe.github.io/id/tags/analisis/</link>
+      <pubDate>Mon, 04 Jan 2021 16:02:48 +0700</pubDate>
+      
+      <guid>https://berrabe.github.io/id/tags/analisis/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

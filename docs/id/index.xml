@@ -5,14 +5,26 @@
     <link>https://berrabe.github.io/id/</link>
     <description>Recent content on Docs | berrabe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 02 Jan 2021 12:07:25 +0700</lastBuildDate><atom:link href="https://berrabe.github.io/id/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 05 Jan 2021 11:56:28 +0700</lastBuildDate><atom:link href="https://berrabe.github.io/id/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Pertama</title>
-      <link>https://berrabe.github.io/id/posts/2021/first/</link>
-      <pubDate>Sat, 02 Jan 2021 12:07:25 +0700</pubDate>
+      <title>Openvpn Multiple Port and Protocol</title>
+      <link>https://berrabe.github.io/id/posts/2021/openvpn-multiple-port-and-protocol/</link>
+      <pubDate>Tue, 05 Jan 2021 11:56:28 +0700</pubDate>
       
-      <guid>https://berrabe.github.io/id/posts/2021/first/</guid>
-      <description></description>
+      <guid>https://berrabe.github.io/id/posts/2021/openvpn-multiple-port-and-protocol/</guid>
+      <description>1) TLDR  yo yo yo eee teammm &amp;hellip; welcome bek to my webseettt 😧 &amp;hellip; selamat pagi, siang atau malam buat temen2, om, tante, pakdhe, budhe, simbah kakung, simbah putri dan semuanya dah 😪
+kali ini saya akan mendokumentasikan gimaneee caranyee setting banyak openvpn dalam satu server.
+Mungkin kalian pernah berfikir untuk bypass limitasi yang di lakukan oleh pihak Vendor / ISP kan? semisal Vendor / ISP kalian tidak bisa buka reddit, netplik, skidipapap huahuahua, dsb.</description>
+    </item>
+    
+    <item>
+      <title>Openvpn Redirect Problem</title>
+      <link>https://berrabe.github.io/id/posts/2021/openvpn-redirect-problem/</link>
+      <pubDate>Mon, 04 Jan 2021 16:02:48 +0700</pubDate>
+      
+      <guid>https://berrabe.github.io/id/posts/2021/openvpn-redirect-problem/</guid>
+      <description>1) Masalah Besar pada OpenVPN  Saat saya menginstall openvpn dari script automasi bang angristan (fork dari script Nyr), saya bisa setup server openvpn dengan cepat (hanya 5 menit) dan langsung work, tanpa harus setting cert, ip, routing dll secara manual
+tapi ada satu masalah yang sangat simple tetepi membahayakan, dimana saya tidak bisa akses server client yang terkonek dengan jaringan OpenVPN!!!!, semua service tidak bisa di akses, mulai dari ping, ssh, sftp, webserver, dll &amp;hellip; oke oke, jangan tenang tetap panik 😝</description>
     </item>
     
     <item>
