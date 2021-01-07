@@ -5,7 +5,19 @@
     <link>https://berrabe.github.io/id/tags/linux/</link>
     <description>Recent content in Linux on Docs | berrabe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 05 Jan 2021 11:56:28 +0700</lastBuildDate><atom:link href="https://berrabe.github.io/id/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 07 Jan 2021 10:49:33 +0700</lastBuildDate><atom:link href="https://berrabe.github.io/id/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Automation For Changing Server Password and Setup SSH-Key to Dozens Of Servers</title>
+      <link>https://berrabe.github.io/id/posts/2021/automation-for-changing-server-password-and-setup-ssh-key-to-dozens-of-servers/</link>
+      <pubDate>Thu, 07 Jan 2021 10:49:33 +0700</pubDate>
+      
+      <guid>https://berrabe.github.io/id/posts/2021/automation-for-changing-server-password-and-setup-ssh-key-to-dozens-of-servers/</guid>
+      <description>1) TLDR  tet tet tetttt &amp;hellip; balek lagi sama saya, berrabe &amp;hellip; dimana saya suka memecahkan masalah menjadi masalah lagiii, YEAY 😎
+kali ini saya pengen sharing dikit &amp;hellip; suatu hari, saya di suruh ganti password server + setting SSH-Key yang akan di lakukan rutin setiap bulan, untuk alasan keamanan
+masih oke lahhhh, ganti gitu doanggg 😙 &amp;hellip;
+eits, tapi masih belum selesai, ternyata server nya kagak cuman atuu, tapi puluhan server &amp;hellip; WHAT!</description>
+    </item>
+    
     <item>
       <title>Openvpn Multiple Port and Protocol</title>
       <link>https://berrabe.github.io/id/posts/2021/openvpn-multiple-port-and-protocol/</link>
