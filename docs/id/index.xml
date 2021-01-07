@@ -8,10 +8,10 @@
     <lastBuildDate>Thu, 07 Jan 2021 10:49:33 +0700</lastBuildDate><atom:link href="https://berrabe.github.io/id/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Automation For Changing Server Password and Setup SSH-Key to Dozens Of Servers</title>
-      <link>https://berrabe.github.io/id/posts/2021/automation-for-changing-server-password-and-setup-ssh-key-to-dozens-of-servers/</link>
+      <link>https://berrabe.github.io/id/posts/2021/03-jan-2021/automation-for-changing-server-password-and-setup-ssh-key-to-dozens-of-servers/</link>
       <pubDate>Thu, 07 Jan 2021 10:49:33 +0700</pubDate>
       
-      <guid>https://berrabe.github.io/id/posts/2021/automation-for-changing-server-password-and-setup-ssh-key-to-dozens-of-servers/</guid>
+      <guid>https://berrabe.github.io/id/posts/2021/03-jan-2021/automation-for-changing-server-password-and-setup-ssh-key-to-dozens-of-servers/</guid>
       <description>1) TLDR  tet tet tetttt &amp;hellip; balek lagi sama saya, berrabe &amp;hellip; dimana saya suka memecahkan masalah menjadi masalah lagiii, YEAY 😎
 kali ini saya pengen sharing dikit &amp;hellip; suatu hari, saya di suruh ganti password server + setting SSH-Key yang akan di lakukan rutin setiap bulan, untuk alasan keamanan
 masih oke lahhhh, ganti gitu doanggg 😙 &amp;hellip;
@@ -20,10 +20,10 @@ eits, tapi masih belum selesai, ternyata server nya kagak cuman atuu, tapi puluh
     
     <item>
       <title>Openvpn Multiple Port and Protocol</title>
-      <link>https://berrabe.github.io/id/posts/2021/openvpn-multiple-port-and-protocol/</link>
+      <link>https://berrabe.github.io/id/posts/2021/02-jan-2021/openvpn-multiple-ports-and-protocol/</link>
       <pubDate>Tue, 05 Jan 2021 11:56:28 +0700</pubDate>
       
-      <guid>https://berrabe.github.io/id/posts/2021/openvpn-multiple-port-and-protocol/</guid>
+      <guid>https://berrabe.github.io/id/posts/2021/02-jan-2021/openvpn-multiple-ports-and-protocol/</guid>
       <description>1) TLDR  yo yo yo eee teammm &amp;hellip; welcome bek to my webseettt 😧 &amp;hellip; selamat pagi, siang atau malam buat temen2, om, tante, pakdhe, budhe, simbah kakung, simbah putri dan semuanya dah 😪
 kali ini saya akan mendokumentasikan gimaneee caranyee setting banyak openvpn dalam satu server.
 Mungkin kalian pernah berfikir untuk bypass limitasi yang di lakukan oleh pihak Vendor / ISP kan? semisal Vendor / ISP kalian tidak bisa buka reddit, netplik, skidipapap huahuahua, dsb.</description>
@@ -31,10 +31,10 @@ Mungkin kalian pernah berfikir untuk bypass limitasi yang di lakukan oleh pihak 
     
     <item>
       <title>Openvpn Redirect Problem</title>
-      <link>https://berrabe.github.io/id/posts/2021/openvpn-redirect-problem/</link>
+      <link>https://berrabe.github.io/id/posts/2021/01-jan-2021/openvpn-redirect-problem/</link>
       <pubDate>Mon, 04 Jan 2021 16:02:48 +0700</pubDate>
       
-      <guid>https://berrabe.github.io/id/posts/2021/openvpn-redirect-problem/</guid>
+      <guid>https://berrabe.github.io/id/posts/2021/01-jan-2021/openvpn-redirect-problem/</guid>
       <description>1) Masalah Besar pada OpenVPN  Saat saya menginstall openvpn dari script automasi bang angristan (fork dari script Nyr), saya bisa setup server openvpn dengan cepat (hanya 5 menit) dan langsung work, tanpa harus setting cert, ip, routing dll secara manual
 tapi ada satu masalah yang sangat simple tetepi membahayakan, dimana saya tidak bisa akses server client yang terkonek dengan jaringan OpenVPN!!!!, semua service tidak bisa di akses, mulai dari ping, ssh, sftp, webserver, dll &amp;hellip; oke oke, jangan tenang tetap panik 😝</description>
     </item>

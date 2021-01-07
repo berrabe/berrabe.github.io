@@ -2,7 +2,7 @@
 title: "Openvpn Redirect Problem"
 date: 2021-01-04T16:02:48+07:00
 weight: 1
-tags: ["OpenVPN", "VPN", "Linux", "Analisis"]
+tags: ["OpenVPN", "VPN", "Linux", "analysis"]
 author: "berrabe"
 showToc: true
 TocOpen: True
