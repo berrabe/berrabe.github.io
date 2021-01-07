@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://berrabe.github.io/id/posts/2021/04-jan-2021/monitoring-undervolting-and-tweaking-cpu-on-top-linux/</loc>
+    <lastmod>2021-01-07T13:54:07+07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://berrabe.github.io/id/posts/2021/03-jan-2021/automation-for-changing-server-password-and-setup-ssh-key-to-dozens-of-servers/</loc>
     <lastmod>2021-01-07T10:49:33+07:00</lastmod>
   </url>
@@ -18,18 +23,13 @@
   </url>
   
   <url>
-    <loc>https://berrabe.github.io/id/tags/ansible/</loc>
-    <lastmod>2021-01-07T10:49:33+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://berrabe.github.io/id/tags/automation/</loc>
-    <lastmod>2021-01-07T10:49:33+07:00</lastmod>
+    <loc>https://berrabe.github.io/id/tags/analysis/</loc>
+    <lastmod>2021-01-07T13:54:07+07:00</lastmod>
   </url>
   
   <url>
     <loc>https://berrabe.github.io/id/</loc>
-    <lastmod>2021-01-07T10:49:33+07:00</lastmod>
+    <lastmod>2021-01-07T13:54:07+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -44,12 +44,12 @@
   
   <url>
     <loc>https://berrabe.github.io/id/tags/linux/</loc>
-    <lastmod>2021-01-07T10:49:33+07:00</lastmod>
+    <lastmod>2021-01-07T13:54:07+07:00</lastmod>
   </url>
   
   <url>
     <loc>https://berrabe.github.io/id/posts/</loc>
-    <lastmod>2021-01-07T10:49:33+07:00</lastmod>
+    <lastmod>2021-01-07T13:54:07+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -63,13 +63,8 @@
   </url>
   
   <url>
-    <loc>https://berrabe.github.io/id/tags/ssh/</loc>
-    <lastmod>2021-01-07T10:49:33+07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://berrabe.github.io/id/tags/</loc>
-    <lastmod>2021-01-07T10:49:33+07:00</lastmod>
+    <lastmod>2021-01-07T13:54:07+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -83,6 +78,26 @@
   </url>
   
   <url>
+    <loc>https://berrabe.github.io/id/tags/tools/</loc>
+    <lastmod>2021-01-07T13:54:07+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://berrabe.github.io/id/tags/ansible/</loc>
+    <lastmod>2021-01-07T10:49:33+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://berrabe.github.io/id/tags/automation/</loc>
+    <lastmod>2021-01-07T10:49:33+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://berrabe.github.io/id/tags/ssh/</loc>
+    <lastmod>2021-01-07T10:49:33+07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://berrabe.github.io/id/tags/openvpn/</loc>
     <lastmod>2021-01-05T11:56:28+07:00</lastmod>
   </url>
@@ -90,11 +105,6 @@
   <url>
     <loc>https://berrabe.github.io/id/tags/vpn/</loc>
     <lastmod>2021-01-05T11:56:28+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://berrabe.github.io/id/tags/analysis/</loc>
-    <lastmod>2021-01-04T16:02:48+07:00</lastmod>
   </url>
   
   <url>

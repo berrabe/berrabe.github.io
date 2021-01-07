@@ -1,11 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>analysis on Docs | berrabe</title>
+    <title>Analysis on Docs | berrabe</title>
     <link>https://berrabe.github.io/id/tags/analysis/</link>
-    <description>Recent content in analysis on Docs | berrabe</description>
+    <description>Recent content in Analysis on Docs | berrabe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 04 Jan 2021 16:02:48 +0700</lastBuildDate><atom:link href="https://berrabe.github.io/id/tags/analysis/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 07 Jan 2021 13:54:07 +0700</lastBuildDate><atom:link href="https://berrabe.github.io/id/tags/analysis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Monitoring, Undervolting and Tweaking CPU on Top Linux</title>
+      <link>https://berrabe.github.io/id/posts/2021/04-jan-2021/monitoring-undervolting-and-tweaking-cpu-on-top-linux/</link>
+      <pubDate>Thu, 07 Jan 2021 13:54:07 +0700</pubDate>
+      
+      <guid>https://berrabe.github.io/id/posts/2021/04-jan-2021/monitoring-undervolting-and-tweaking-cpu-on-top-linux/</guid>
+      <description>1) TLDR  tet tet tetttt &amp;hellip; balek lagi sama saya, berrabe &amp;hellip; dimana saya suka memecahkan masalah menjadi masalah lagiii, YEAY 😎
+kali ini saya pengen sharing lagi bagaimana cara memasak indomie, eh &amp;hellip; maap, efek laperrr 😪
+maksud saya cara Monitoring, Undervolting dan Tweaking CPU di Linux. Untuk info saja, topik utamanya adalah UNDERVOLTING &amp;hellip; dimana dari undervolting itu nyambung ke tweaking lalu monitoring
+sebelumnya uda tau belom ama undervolt?</description>
+    </item>
+    
     <item>
       <title>Openvpn Redirect Problem</title>
       <link>https://berrabe.github.io/id/posts/2021/01-jan-2021/openvpn-redirect-problem/</link>
