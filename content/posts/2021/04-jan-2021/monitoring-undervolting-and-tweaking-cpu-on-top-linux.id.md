@@ -231,11 +231,11 @@ tapi masalahnya metode ini hanya berlaku untuk intel generasi terbaru `>= Gen 4 
 
 - **Intel Di Bawah Gen 4**
 
-saya dulu pernah mencoba pada prosesor Intel Core 2 Duo di laptop VAIO VGN-Z46GD tahun 2008 menggunakan [Intel PHC, bisa di lihat di sini](https://wiki.archlinux.org/index.php/PHC). dengan driver CPU lama `Intel P-states` di bandingkan yang sekarang `acpi_cpufreq`
+saya dulu pernah mencoba pada prosesor Intel Core 2 Duo di laptop VAIO VGN-Z46GD tahun 2008 menggunakan [Intel PHC, bisa di lihat di sini](https://wiki.archlinux.org/index.php/PHC). dengan driver CPU lama `acpi_cpufreq` di bandingkan yang sekarang `Intel P-states`
 
 tapi menurut saya, [Intel PHC](https://wiki.archlinux.org/index.php/PHC) tidak cukup powerful karna tidak bisa melakukan UnderVolting di bawah 0 mV (offset tidak bisa minus), sehingga hasil nya terasa kurang maksimal
 
 
 - **Processor AMD**
 
-untuk processor AMD jujur saja saya belum pernah, tapi bila membaca dokumentasi dari tools [Python3 Undervolt](https://github.com/georgewhewell/undervolt) dan [Intel PHC](https://wiki.archlinux.org/index.php/PHC). tools-tools ini bisa melakukan nya dengan lancar tanpa ada kendala, *syarat dan ketentuan berlaku* :blush:
+untuk processor AMD jujur saja saya belum pernah coba, tapi bila membaca dokumentasi dari tools [Python3 Undervolt](https://github.com/georgewhewell/undervolt) dan [Intel PHC](https://wiki.archlinux.org/index.php/PHC). tools-tools ini bisa melakukan nya dengan lancar tanpa ada kendala, *syarat dan ketentuan berlaku* :blush:
