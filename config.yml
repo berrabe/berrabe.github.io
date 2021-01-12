@@ -5,7 +5,7 @@ theme: hugo-PaperMod
 enableInlineShortcodes: true
 enableRobotsTXT: true
 
-googleAnalytics: G-FCB4RRC5VE
+googleAnalytics: UA-187127468-1
 enableEmoji: true
 
 minify:
