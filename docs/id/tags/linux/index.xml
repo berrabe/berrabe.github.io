@@ -5,7 +5,18 @@
     <link>https://berrabe.github.io/id/tags/linux/</link>
     <description>Recent content in Linux on Docs | berrabe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 08 Jan 2021 13:14:33 +0700</lastBuildDate><atom:link href="https://berrabe.github.io/id/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 Jan 2021 13:40:31 +0700</lastBuildDate><atom:link href="https://berrabe.github.io/id/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Telegram Notification on SSH Login</title>
+      <link>https://berrabe.github.io/id/posts/2021/06-jan-2021/telegram-notification-on-ssh-login/</link>
+      <pubDate>Sat, 09 Jan 2021 13:40:31 +0700</pubDate>
+      
+      <guid>https://berrabe.github.io/id/posts/2021/06-jan-2021/telegram-notification-on-ssh-login/</guid>
+      <description>1) TLDR  tet tet tetttt &amp;hellip; balek lagi sama saya, berrabe &amp;hellip; dimana saya suka memecahkan masalah menjadi masalah lagiii, YEAY 😎
+kali ini saya pengen sharing dikit tentang gimane caranya kasih notif ke tele kalau ada yang login ke server lewat SSH atau interactive shell
+ knapa harus ke telegram?  ya karna biar simpel aja gitu sembari chat ama pacar temen, bisa lihat notif server + bisa di buka di manapun (HP, Website, Desktop) dengan cepat tanpa buka WebApp, login dst kayak pake ELK, Grafana Loki dkk</description>
+    </item>
+    
     <item>
       <title>Setup Gitlab-Runner &#43; Docker Executor</title>
       <link>https://berrabe.github.io/id/posts/2021/05-jan-2021/setup-gitlab-runner-docker-executor/</link>

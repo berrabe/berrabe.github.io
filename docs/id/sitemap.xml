@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://berrabe.github.io/id/posts/2021/06-jan-2021/telegram-notification-on-ssh-login/</loc>
+    <lastmod>2021-01-09T13:40:31+07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://berrabe.github.io/id/posts/2021/05-jan-2021/setup-gitlab-runner-docker-executor/</loc>
     <lastmod>2021-01-08T13:14:33+07:00</lastmod>
   </url>
@@ -29,17 +34,12 @@
   
   <url>
     <loc>https://berrabe.github.io/id/tags/automation/</loc>
-    <lastmod>2021-01-08T13:14:33+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://berrabe.github.io/id/tags/docker/</loc>
-    <lastmod>2021-01-08T13:14:33+07:00</lastmod>
+    <lastmod>2021-01-09T13:40:31+07:00</lastmod>
   </url>
   
   <url>
     <loc>https://berrabe.github.io/id/</loc>
-    <lastmod>2021-01-08T13:14:33+07:00</lastmod>
+    <lastmod>2021-01-09T13:40:31+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -54,12 +54,17 @@
   
   <url>
     <loc>https://berrabe.github.io/id/tags/linux/</loc>
-    <lastmod>2021-01-08T13:14:33+07:00</lastmod>
+    <lastmod>2021-01-09T13:40:31+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://berrabe.github.io/id/tags/notif/</loc>
+    <lastmod>2021-01-09T13:40:31+07:00</lastmod>
   </url>
   
   <url>
     <loc>https://berrabe.github.io/id/posts/</loc>
-    <lastmod>2021-01-08T13:14:33+07:00</lastmod>
+    <lastmod>2021-01-09T13:40:31+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -74,7 +79,7 @@
   
   <url>
     <loc>https://berrabe.github.io/id/tags/</loc>
-    <lastmod>2021-01-08T13:14:33+07:00</lastmod>
+    <lastmod>2021-01-09T13:40:31+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -85,6 +90,11 @@
                 hreflang="id"
                 href="https://berrabe.github.io/id/tags/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://berrabe.github.io/id/tags/docker/</loc>
+    <lastmod>2021-01-08T13:14:33+07:00</lastmod>
   </url>
   
   <url>
