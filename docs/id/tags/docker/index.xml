@@ -5,7 +5,30 @@
     <link>https://berrabe.github.io/id/tags/docker/</link>
     <description>Recent content in Docker on Docs | berrabe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 14 Jan 2021 21:17:42 +0700</lastBuildDate><atom:link href="https://berrabe.github.io/id/tags/docker/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 23 Jan 2021 17:49:50 +0700</lastBuildDate><atom:link href="https://berrabe.github.io/id/tags/docker/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Docker Reverse Proxy #2</title>
+      <link>https://berrabe.github.io/id/posts/2021/09-jan-2021/docker-reverse-proxy-2/</link>
+      <pubDate>Sat, 23 Jan 2021 17:49:50 +0700</pubDate>
+      
+      <guid>https://berrabe.github.io/id/posts/2021/09-jan-2021/docker-reverse-proxy-2/</guid>
+      <description>1) TLDR  oke &amp;hellip; artikel kali ini akan singkat saja karna cuman lanjutan dari docker reverse proxy #1
+pada docker reverse proxy #1, saya sudah berhasil memisahkan website berdasarkan domain yang di simpan pada satu server 😇
++-----------------------------+ | SERVER 1 | +--------------+ | | +--------+ | | | = WordPress | | USER | +------&amp;gt; | INTERNET | +-------&amp;gt; | = PHPMyAdmin | +--------+ | | | = Grafana | +--------------+ | = test (a.</description>
+    </item>
+    
+    <item>
+      <title>Docker Reverse Proxy #1</title>
+      <link>https://berrabe.github.io/id/posts/2021/08-jan-2021/docker-reverse-proxy-1/</link>
+      <pubDate>Sat, 23 Jan 2021 11:36:29 +0700</pubDate>
+      
+      <guid>https://berrabe.github.io/id/posts/2021/08-jan-2021/docker-reverse-proxy-1/</guid>
+      <description>1) TLDR  tet tet tetttt &amp;hellip; balek lagi sama saya, berrabe &amp;hellip; dimana saya suka memecahkan masalah tanpa masalah &amp;hellip; YEAY 😎
+kali ini, saya pengen curhat dikit tentang jiwa kere hore saya &amp;hellip;. 😅
+Jadi saya punya beberapa WEB-APP yang mau di jalanin, katakanlah ada Wordpress, Grafana dll &amp;hellip; tapi saya ga mau jalanin WEB-APP tadi di server-server terpisah kaya gini nih
++-------------------------+ | | +----------&amp;gt; | SERVER 1 (WordPress) | | | | +--------------+ | +-------------------------+ +--------+ | | | | USER | +------&amp;gt; | INTERNET | +-+ +--------+ | | | +-------------------------+ +--------------+ | | | +----------&amp;gt; | SERVER 2 (GRAFANA) | | | +-------------------------+ saya mau nya yangggg &amp;hellip; paket hematttt kere hore ala anak kostan setiap akhir bulan, yang kalo makan nasi nya satu ember tapi lauknya cuman tempe goreng secuil 😩</description>
+    </item>
+    
     <item>
       <title>Isolated SFTP Env With Docker</title>
       <link>https://berrabe.github.io/id/posts/2021/07-jan-2021/isolated-sftp-env-with-docker/</link>
