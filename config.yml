@@ -52,7 +52,7 @@ languages:
 
 staticDir:
 - static
-- content/posts
+# - content/posts
 
 
 outputs:

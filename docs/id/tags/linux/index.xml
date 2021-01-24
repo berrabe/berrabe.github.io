@@ -5,7 +5,18 @@
     <link>https://berrabe.github.io/id/tags/linux/</link>
     <description>Recent content in Linux on Docs | berrabe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 23 Jan 2021 17:49:50 +0700</lastBuildDate><atom:link href="https://berrabe.github.io/id/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Jan 2021 05:34:24 +0700</lastBuildDate><atom:link href="https://berrabe.github.io/id/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Monitoring OpenVPN</title>
+      <link>https://berrabe.github.io/id/posts/2021/10-jan-2021/monitoring-openvpn/</link>
+      <pubDate>Sun, 24 Jan 2021 05:34:24 +0700</pubDate>
+      
+      <guid>https://berrabe.github.io/id/posts/2021/10-jan-2021/monitoring-openvpn/</guid>
+      <description>1) TLDR  wokai &amp;hellip; ketemu lagi sama saya, berrabe. Kali ini saya pengen sharing caranyoo monitoring openvpn yang simple 😍
+kenapa harus OpenVPN? dan kenapa harus di Monitoring? 😕
+ pertama, OpenVPN itu protokol private tunneling yang paling secure dan paling banyak di implementasikan saat ini kedua, monitoring itu sangat crucial sekali &amp;hellip; klo sebuah sistem / app tidak di monitoring, itu sama seperti orang yang menanam padi tapi tidak pernah di rawat / dibiarin aja gitu.</description>
+    </item>
+    
     <item>
       <title>Docker Reverse Proxy #2</title>
       <link>https://berrabe.github.io/id/posts/2021/09-jan-2021/docker-reverse-proxy-2/</link>

@@ -5,20 +5,11 @@
     <link>https://berrabe.github.io/id/tags/</link>
     <description>Recent content in Tags on Docs | berrabe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 23 Jan 2021 17:49:50 +0700</lastBuildDate><atom:link href="https://berrabe.github.io/id/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Automation</title>
-      <link>https://berrabe.github.io/id/tags/automation/</link>
-      <pubDate>Sat, 23 Jan 2021 17:49:50 +0700</pubDate>
-      
-      <guid>https://berrabe.github.io/id/tags/automation/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Sun, 24 Jan 2021 05:34:24 +0700</lastBuildDate><atom:link href="https://berrabe.github.io/id/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Docker</title>
       <link>https://berrabe.github.io/id/tags/docker/</link>
-      <pubDate>Sat, 23 Jan 2021 17:49:50 +0700</pubDate>
+      <pubDate>Sun, 24 Jan 2021 05:34:24 +0700</pubDate>
       
       <guid>https://berrabe.github.io/id/tags/docker/</guid>
       <description></description>
@@ -27,9 +18,36 @@
     <item>
       <title>Linux</title>
       <link>https://berrabe.github.io/id/tags/linux/</link>
-      <pubDate>Sat, 23 Jan 2021 17:49:50 +0700</pubDate>
+      <pubDate>Sun, 24 Jan 2021 05:34:24 +0700</pubDate>
       
       <guid>https://berrabe.github.io/id/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OpenVPN</title>
+      <link>https://berrabe.github.io/id/tags/openvpn/</link>
+      <pubDate>Sun, 24 Jan 2021 05:34:24 +0700</pubDate>
+      
+      <guid>https://berrabe.github.io/id/tags/openvpn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tools</title>
+      <link>https://berrabe.github.io/id/tags/tools/</link>
+      <pubDate>Sun, 24 Jan 2021 05:34:24 +0700</pubDate>
+      
+      <guid>https://berrabe.github.io/id/tags/tools/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automation</title>
+      <link>https://berrabe.github.io/id/tags/automation/</link>
+      <pubDate>Sat, 23 Jan 2021 17:49:50 +0700</pubDate>
+      
+      <guid>https://berrabe.github.io/id/tags/automation/</guid>
       <description></description>
     </item>
     
@@ -52,15 +70,6 @@
     </item>
     
     <item>
-      <title>Tools</title>
-      <link>https://berrabe.github.io/id/tags/tools/</link>
-      <pubDate>Thu, 07 Jan 2021 13:54:07 +0700</pubDate>
-      
-      <guid>https://berrabe.github.io/id/tags/tools/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Ansible</title>
       <link>https://berrabe.github.io/id/tags/ansible/</link>
       <pubDate>Thu, 07 Jan 2021 10:49:33 +0700</pubDate>
@@ -75,15 +84,6 @@
       <pubDate>Thu, 07 Jan 2021 10:49:33 +0700</pubDate>
       
       <guid>https://berrabe.github.io/id/tags/ssh/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>OpenVPN</title>
-      <link>https://berrabe.github.io/id/tags/openvpn/</link>
-      <pubDate>Tue, 05 Jan 2021 11:56:28 +0700</pubDate>
-      
-      <guid>https://berrabe.github.io/id/tags/openvpn/</guid>
       <description></description>
     </item>
     

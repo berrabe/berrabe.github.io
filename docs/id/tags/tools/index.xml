@@ -5,7 +5,18 @@
     <link>https://berrabe.github.io/id/tags/tools/</link>
     <description>Recent content in Tools on Docs | berrabe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 07 Jan 2021 13:54:07 +0700</lastBuildDate><atom:link href="https://berrabe.github.io/id/tags/tools/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Jan 2021 05:34:24 +0700</lastBuildDate><atom:link href="https://berrabe.github.io/id/tags/tools/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Monitoring OpenVPN</title>
+      <link>https://berrabe.github.io/id/posts/2021/10-jan-2021/monitoring-openvpn/</link>
+      <pubDate>Sun, 24 Jan 2021 05:34:24 +0700</pubDate>
+      
+      <guid>https://berrabe.github.io/id/posts/2021/10-jan-2021/monitoring-openvpn/</guid>
+      <description>1) TLDR  wokai &amp;hellip; ketemu lagi sama saya, berrabe. Kali ini saya pengen sharing caranyoo monitoring openvpn yang simple 😍
+kenapa harus OpenVPN? dan kenapa harus di Monitoring? 😕
+ pertama, OpenVPN itu protokol private tunneling yang paling secure dan paling banyak di implementasikan saat ini kedua, monitoring itu sangat crucial sekali &amp;hellip; klo sebuah sistem / app tidak di monitoring, itu sama seperti orang yang menanam padi tapi tidak pernah di rawat / dibiarin aja gitu.</description>
+    </item>
+    
     <item>
       <title>Monitoring, Undervolting and Tweaking CPU on Top Linux</title>
       <link>https://berrabe.github.io/id/posts/2021/04-jan-2021/monitoring-undervolting-and-tweaking-cpu-on-top-linux/</link>
