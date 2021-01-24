@@ -50,6 +50,10 @@ languages:
 
                 - Web ini untuk men-dokumentasikan segala hal yang pernah saya lakukan berkaitan teknologi
 
+staticDir:
+- static
+- content/posts
+
 
 outputs:
     home:
