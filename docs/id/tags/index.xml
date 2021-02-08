@@ -5,11 +5,20 @@
     <link>https://berrabe.github.io/id/tags/</link>
     <description>Recent content in Tags on Docs | berrabe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 24 Jan 2021 05:34:24 +0700</lastBuildDate><atom:link href="https://berrabe.github.io/id/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 08 Feb 2021 15:28:38 +0700</lastBuildDate><atom:link href="https://berrabe.github.io/id/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Analysis</title>
+      <link>https://berrabe.github.io/id/tags/analysis/</link>
+      <pubDate>Mon, 08 Feb 2021 15:28:38 +0700</pubDate>
+      
+      <guid>https://berrabe.github.io/id/tags/analysis/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Docker</title>
       <link>https://berrabe.github.io/id/tags/docker/</link>
-      <pubDate>Sun, 24 Jan 2021 05:34:24 +0700</pubDate>
+      <pubDate>Mon, 08 Feb 2021 15:28:38 +0700</pubDate>
       
       <guid>https://berrabe.github.io/id/tags/docker/</guid>
       <description></description>
@@ -18,9 +27,18 @@
     <item>
       <title>Linux</title>
       <link>https://berrabe.github.io/id/tags/linux/</link>
-      <pubDate>Sun, 24 Jan 2021 05:34:24 +0700</pubDate>
+      <pubDate>Mon, 08 Feb 2021 15:28:38 +0700</pubDate>
       
       <guid>https://berrabe.github.io/id/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Security</title>
+      <link>https://berrabe.github.io/id/tags/security/</link>
+      <pubDate>Mon, 08 Feb 2021 15:28:38 +0700</pubDate>
+      
+      <guid>https://berrabe.github.io/id/tags/security/</guid>
       <description></description>
     </item>
     
@@ -57,15 +75,6 @@
       <pubDate>Sat, 09 Jan 2021 13:40:31 +0700</pubDate>
       
       <guid>https://berrabe.github.io/id/tags/notif/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Analysis</title>
-      <link>https://berrabe.github.io/id/tags/analysis/</link>
-      <pubDate>Thu, 07 Jan 2021 13:54:07 +0700</pubDate>
-      
-      <guid>https://berrabe.github.io/id/tags/analysis/</guid>
       <description></description>
     </item>
     
