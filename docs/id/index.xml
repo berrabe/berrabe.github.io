@@ -132,23 +132,7 @@ Mungkin kalian pernah berfikir untuk bypass limitasi yang di lakukan oleh pihak 
 tapi ada satu masalah yang sangat simple tetepi membahayakan, dimana saya tidak bisa akses server client yang terkonek dengan jaringan OpenVPN!!!!, semua service tidak bisa di akses, mulai dari ping, ssh, sftp, webserver, dll &amp;hellip; oke oke, jangan tenang tetap panik 😝</description>
     </item>
     
-    <item>
-      <title>Archive</title>
-      <link>https://berrabe.github.io/id/archives/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://berrabe.github.io/id/archives/</guid>
-      <description>archives</description>
-    </item>
     
-    <item>
-      <title>Pencarian</title>
-      <link>https://berrabe.github.io/id/search/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://berrabe.github.io/id/search/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>

@@ -1,73 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://berrabe.github.io/id/posts/2021/11-feb-2021/prevent-dns-hijacking-and-securing-networkwith-dns-over-tls/</loc>
     <lastmod>2021-02-08T15:28:38+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://berrabe.github.io/id/posts/2021/10-jan-2021/monitoring-openvpn/</loc>
     <lastmod>2021-01-24T05:34:24+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://berrabe.github.io/id/posts/2021/09-jan-2021/docker-reverse-proxy-2/</loc>
     <lastmod>2021-01-23T17:49:50+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://berrabe.github.io/id/posts/2021/08-jan-2021/docker-reverse-proxy-1/</loc>
     <lastmod>2021-01-23T11:36:29+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://berrabe.github.io/id/posts/2021/07-jan-2021/isolated-sftp-env-with-docker/</loc>
     <lastmod>2021-01-14T21:17:42+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://berrabe.github.io/id/posts/2021/06-jan-2021/telegram-notification-on-ssh-login/</loc>
     <lastmod>2021-01-09T13:40:31+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://berrabe.github.io/id/posts/2021/05-jan-2021/setup-gitlab-runner-docker-executor/</loc>
     <lastmod>2021-01-08T13:14:33+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://berrabe.github.io/id/posts/2021/04-jan-2021/monitoring-undervolting-and-tweaking-cpu-on-top-linux/</loc>
     <lastmod>2021-01-07T13:54:07+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://berrabe.github.io/id/posts/2021/03-jan-2021/automation-for-changing-server-password-and-setup-ssh-key-to-dozens-of-servers/</loc>
     <lastmod>2021-01-07T10:49:33+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://berrabe.github.io/id/posts/2021/02-jan-2021/openvpn-multiple-ports-and-protocol/</loc>
     <lastmod>2021-01-05T11:56:28+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://berrabe.github.io/id/posts/2021/01-jan-2021/openvpn-redirect-problem/</loc>
     <lastmod>2021-01-04T16:02:48+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://berrabe.github.io/id/tags/analysis/</loc>
     <lastmod>2021-02-08T15:28:38+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://berrabe.github.io/id/tags/docker/</loc>
     <lastmod>2021-02-08T15:28:38+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://berrabe.github.io/id/</loc>
     <lastmod>2021-02-08T15:28:38+07:00</lastmod>
     <xhtml:link
@@ -80,14 +53,10 @@
                 hreflang="id"
                 href="https://berrabe.github.io/id/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://berrabe.github.io/id/tags/linux/</loc>
     <lastmod>2021-02-08T15:28:38+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://berrabe.github.io/id/posts/</loc>
     <lastmod>2021-02-08T15:28:38+07:00</lastmod>
     <xhtml:link
@@ -100,14 +69,10 @@
                 hreflang="id"
                 href="https://berrabe.github.io/id/posts/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://berrabe.github.io/id/tags/security/</loc>
     <lastmod>2021-02-08T15:28:38+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://berrabe.github.io/id/tags/</loc>
     <lastmod>2021-02-08T15:28:38+07:00</lastmod>
     <xhtml:link
@@ -120,44 +85,28 @@
                 hreflang="id"
                 href="https://berrabe.github.io/id/tags/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://berrabe.github.io/id/tags/openvpn/</loc>
     <lastmod>2021-01-24T05:34:24+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://berrabe.github.io/id/tags/tools/</loc>
     <lastmod>2021-01-24T05:34:24+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://berrabe.github.io/id/tags/automation/</loc>
     <lastmod>2021-01-23T17:49:50+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://berrabe.github.io/id/tags/notif/</loc>
     <lastmod>2021-01-09T13:40:31+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://berrabe.github.io/id/tags/ansible/</loc>
     <lastmod>2021-01-07T10:49:33+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://berrabe.github.io/id/tags/ssh/</loc>
     <lastmod>2021-01-07T10:49:33+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://berrabe.github.io/id/tags/vpn/</loc>
     <lastmod>2021-01-05T11:56:28+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://berrabe.github.io/id/archives/</loc>
     <xhtml:link
                 rel="alternate"
@@ -169,9 +118,7 @@
                 hreflang="id"
                 href="https://berrabe.github.io/id/archives/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://berrabe.github.io/id/search/</loc>
     <xhtml:link
                 rel="alternate"
@@ -184,5 +131,4 @@
                 href="https://berrabe.github.io/id/search/"
                 />
   </url>
-  
 </urlset>
