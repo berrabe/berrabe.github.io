@@ -71,15 +71,15 @@ params:
     displayFullLangName: true
 
     profileMode:
-        enabled: false
-        title: PaperMod
-        imageUrl: "#"
-        imageTitle: my image
+        enabled: true
+        title: Docs | berrabe
+        # imageUrl: "#"
+        # imageTitle: my image
         buttons:
-            - name: Archives
-              url: archives
-            - name: Tags
-              url: tags
+            - name: Indonesia
+              url: /id/archives
+            - name: English
+              url: /archives
 
     homeInfoParams:
         Title: "Hi there \U0001F44B"
